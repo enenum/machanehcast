@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Love And The Mega Church</title>
+    <googleplay:author>Bishop Dag Heward-Mills</googleplay:author>
+    <description>Love And The Mega Chruch</description>
+    <googleplay:image href="https://enenum.github.io/machanehcast/love_and_the_mega_church/love_and_the_mega_church.jpg"/>
+    <language>en-us</language>
+    <link>https://enenum.github.io/machanehcast/love_and_the_mega_church/</link>
+    <item>
+      <title>Intro - Love and The Mega Church</title>
+      <description>Intro.</description>
+      <pubDate>Tue, 14 Mar 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/songs/C6_00 Intro - Love and The Mega Church.mp3"
+                 type="audio/mpeg" length="851843"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid>dhmloveandthemegachruchintro</guid>
+    </item>
+    <item>
+      <title>01. Draw Near</title>
+      <description>Draw Near.</description>
+      <pubDate>Fri, 24 Feb 2019 12:00:00 GMT</pubDate>
+      <enclosure url="http://daghewardmillsaudio.org/index.php/component/muscol/?view=file&format=raw&id=171"
+                 type="audio/mpeg" length="26004388"/>
+      <itunes:duration>22:48</itunes:duration>
+      <guid>dhmdrawnear</guid>
+    </item>
+  </channel>
+</rss>

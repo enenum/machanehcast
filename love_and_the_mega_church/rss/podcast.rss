@@ -15,7 +15,7 @@
       <enclosure url="http://daghewardmillsaudio.org/songs/C6_00%20Intro%20-%20Love%20and%20The%20Mega%20Church.mp3"
                  type="audio/mpeg" length="851843"/>
       <itunes:duration>30:00</itunes:duration>
-      <guid>dhmloveintro</guid>
+      <guid isPermaLink="false">dhmloveintro</guid>
     </item>
     <item>
       <title>01. Draw Near</title>
@@ -24,7 +24,7 @@
       <enclosure url="http://daghewardmillsaudio.org/songs/C6_01%20Draw%20Near.mp3"
                  type="audio/mpeg" length="26004388"/>
       <itunes:duration>22:48</itunes:duration>
-      <guid>dhmdrawnear</guid>
+      <guid isPermaLink="false">dhmdrawnear</guid>
     </item>
   </channel>
 </rss>
